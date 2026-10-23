@@ -25,6 +25,7 @@ plataformas que construí. No contienen código ni datos de clientes.
 |---|---|
 | [llm-interaction-classifier](https://github.com/nicgonroj/llm-interaction-classifier) | Clasificación con LLMs, salida validada por JSON Schema, revisión humana por excepción y evaluación automatizada |
 | [semantic-search-with-citations](https://github.com/nicgonroj/semantic-search-with-citations) | Búsqueda semántica que responde citando la fuente, rechaza citas inventadas y se abstiene sin evidencia |
+| [catalog-matching-embeddings](https://github.com/nicgonroj/catalog-matching-embeddings) | Matching de descripciones de compra contra un catálogo de 10.000 productos, con revisión humana por excepción y pgvector |
 
 ### Datos, BI y machine learning
 
